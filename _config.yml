@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "Be Cool"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "LCD"
+name                     : "lcd"
 description              : "An amazing website."
 url                      : "https://Lcooldong.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
