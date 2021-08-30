@@ -13,11 +13,12 @@ We use 4 things to do.
 4. Window network Centor
 
 
-◆ Go to network center and double click wifi.
+◆ Go to network center and double click wifi.  
+  
 ![net](https://user-images.githubusercontent.com/32934089/131289265-1d2203e4-aecb-4c42-aed2-33e8ada97829.JPG)  
 
 ◆ Open cmd
-
+  
 ->  ipconfig  
 ![net2](https://user-images.githubusercontent.com/32934089/131289404-c1481287-8663-45e1-b8bb-2ef5fb1cee25.JPG)
 
@@ -28,7 +29,7 @@ I fixed my ip but, you can find 192.168.137.X  (not 255).
 
   
 ◆ Go to putty and connect SSH.   
-
+  
 ![net4](https://user-images.githubusercontent.com/32934089/131289828-35e203a7-24e6-45ca-beb6-a40499f7857a.JPG)
 
 
@@ -47,9 +48,13 @@ And, reconnect ethernet wire.
 Then, open the network center.
 
 ◆ Connect your fixed ip.   
-
+  
 ![net6](https://user-images.githubusercontent.com/32934089/131291088-aaef486a-c352-4520-85a7-7e5ab0e6783f.JPG)
 
+nano save ->    ctrl + s
+nano quit ->    ctrl + x
+vim insert ->   i or a
+vim quit and save -> ESC, :(shift+;)wq
 
 if you don't have vim editor -> sudo apt-get install vim  
 if your **dhcpcd.conf** file is empty -> sudo apt-get install dhcpcd5  
