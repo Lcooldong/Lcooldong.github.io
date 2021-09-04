@@ -21,8 +21,7 @@ Therefore, I found some solution. <br>
 
 4. Open Puttygen, press "Generate Button", and press "Save public key" on your  "~\.ssh\config"  folder. <br> 
 
-5. Go to the config file. Write your Raspi4 Ip. : <br>
-<br>
+5. Go to the config file. Write your Raspi4 Ip. :
 <pre>
 <code>
 Host raspi4_WiFi
