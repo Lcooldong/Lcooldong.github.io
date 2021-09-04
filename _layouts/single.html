@@ -80,7 +80,6 @@ layout: default
         {% for post in site.posts limit:4 %}
           {% if post.id == page.id %}
             {% continue %}
-            [GO TO TOP](#){: .btn .btn--primary } <br>
           {% endif %}
           {% include archive-single.html type="grid" %}
         {% endfor %}
