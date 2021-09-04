@@ -21,17 +21,19 @@ Therefore, I found some solution. <br>
 
 4. Open Puttygen, press "Generate Button", and press "Save public key" on your  "~\.ssh\config"  folder. <br> 
 
-5. Go to the config file. Write your Raspi4 Ip. :
-
+5. Go to the config file. Write your Raspi4 Ip. : <br>
+<br>
 Host raspi4_WiFi <br>
     HostName [Your IP Number] <br>
     Port 22 <br>
     User ubuntu <br>
     IdentityFile ~\.ssh\keys <br>
 
-This is Example of my WiFi Connection.
+This is Example of my WiFi Connection. <br>
 
+6. After save config file, press F1, write connect, and click your connection. <br>
 
+7. 
 
 <br>
 [GO TO TOP](#){: .btn .btn--primary } <br>
