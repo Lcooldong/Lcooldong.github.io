@@ -31,7 +31,6 @@ Host raspi4_WiFi
     IdentityFile ~\.ssh\keys
 </code>
 </pre>
-
 This is Example of my WiFi Connection. <br>
 
 6. After save config file, press F1, write connect, and click your connection. <br>
