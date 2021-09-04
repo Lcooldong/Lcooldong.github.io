@@ -24,10 +24,10 @@ Therefore, I found some solution. <br>
 5. Go to the config file. Write your Raspi4 Ip. : <br>
 <br>
 Host raspi4_WiFi <br>
-    HostName [Your IP Number] <br>
-    Port 22 <br>
-    User ubuntu <br>
-    IdentityFile ~\.ssh\keys <br>
+&nbsp&nbsp&nbsp&nbsp HostName [Your IP Number] <br>
+&nbsp&nbsp&nbsp&nbsp Port 22 <br>
+&nbsp&nbsp&nbsp&nbsp User ubuntu <br>
+&nbsp&nbsp&nbsp&nbsp IdentityFile ~\.ssh\keys <br>
 
 This is Example of my WiFi Connection. <br>
 
