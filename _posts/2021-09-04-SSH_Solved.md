@@ -33,7 +33,7 @@ This is Example of my WiFi Connection. <br>
 
 6. After save config file, press F1, write connect, and click your connection. <br>
 
-7. 
+7. It will be connected. <br>
 
 <br>
 [GO TO TOP](#){: .btn .btn--primary } <br>
