@@ -1,5 +1,5 @@
 ---
-layout : single
+layout : single2
 title : Visual Studio Code Remote Connection.
 ---
 
