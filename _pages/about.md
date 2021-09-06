@@ -1,5 +1,5 @@
 ---
-title: "이 블로그 설명서"
+title: "What is this place?"
 permalink: /about/
 layout: single
 ---
