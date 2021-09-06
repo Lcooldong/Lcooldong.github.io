@@ -2,7 +2,7 @@
 layout : single
 title : My college router
 categories : [project]
-tags : [project]
+tags : [ESP-32]
 ---
 I want to connect to my Raspberry pi from mobile data. <br>
 My college has serveral routers that I can't approach. <br>
