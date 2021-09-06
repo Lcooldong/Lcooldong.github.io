@@ -1,6 +1,8 @@
 ---
 layout : single2
 title : my college router
+categories : [project]
+tags : [project]
 ---
 I want to connect to my Raspberry pi from mobile data. <br>
 My college has serveral routers that I can't approach. <br>
