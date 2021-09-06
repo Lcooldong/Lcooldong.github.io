@@ -34,14 +34,29 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "C" %}
-                        <li><a href="/categories/algorithm" class="">C (with C++) ({{category[1].size}})</a></li>
+                        <li><a href="/categories/c" class="">C (with C++) ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Cpp" %}
-                        <li><a href="/categories/programmers" class="">C++ ({{category[1].size}})</a></li>
+                        <li><a href="/categories/cpp" class="">C++ ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        <span class="nav__sub-title">etc</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "3d_modeling" %}
+                        <li><a href="/categories/3d_modeling" class="">3d modeling(with C++) ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "item" %}
+                        <li><a href="/categories/item" class="">item ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
