@@ -1,6 +1,6 @@
 ---
 layout : single
-title : my college router
+title : My college router
 categories : [project]
 tags : [project]
 ---
