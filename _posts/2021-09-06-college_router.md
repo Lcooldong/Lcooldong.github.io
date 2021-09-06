@@ -1,5 +1,5 @@
 ---
-layout : single2
+layout : single
 title : my college router
 categories : [project]
 tags : [project]
