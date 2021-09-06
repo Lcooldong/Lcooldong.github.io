@@ -1,6 +1,12 @@
 ---
 layout: single
 title: Raspberry Pi4 Ubuntu Server install.
+
+toc: true
+toc_sticky: true
+
+date: 2021-08-25
+last_modified_at: 2021-09-06
 ---
 
 For my ESP project, I want my own Server.
