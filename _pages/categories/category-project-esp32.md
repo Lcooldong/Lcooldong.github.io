@@ -1,5 +1,5 @@
 ---
-title: "ESP-32"
+title: "ESP32"
 layout: archive
 permalink: categories/project/esp32
 author_profile: true
