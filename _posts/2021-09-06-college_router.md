@@ -2,7 +2,7 @@
 layout : single
 title : My college router
 categories : [ESP32]
-tags : [ESP32, WiFi, Bluetooth]
+tags : [ESP32, WiFi]
 date : 2021-09-06
 last_modified_at: 2021-09-06
 ---
