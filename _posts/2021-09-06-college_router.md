@@ -13,6 +13,7 @@ I think my college IP probably looks like that. <br>
 
 
 I try to use Port Forwarding. But going to upper router was denied. <br>
+<br>
 ![cant](https://user-images.githubusercontent.com/32934089/132148184-2e22f830-7b9b-48c5-b6e9-3e99e363d15f.PNG)
 <br>
 
