@@ -4,7 +4,7 @@ permalink: /about/
 layout: single
 ---
 
-## lcooldong.github.io 블로그
+## LCD's Labaratory~!!
 
 Here is my Blog~!--> <https://lcooldong.github.io/>
 For Fun, I can do anything..!! 
