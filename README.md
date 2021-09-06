@@ -1,3 +1,3 @@
-## Lcooldong's Github Blog~!!
+## Lcooldong's Laboratory~!!
 
 <https://Lcooldong.github.io>
