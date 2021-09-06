@@ -3,6 +3,8 @@ layout : single
 title : My college router
 categories : [ESP32]
 tags : [ESP32]
+date : 2021-09-06
+last_modified_at: 2021-09-06
 ---
 I want to connect to my Raspberry pi from mobile data. <br>
 My college has serveral routers that I can't approach. <br>
