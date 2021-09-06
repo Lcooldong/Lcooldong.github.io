@@ -7,6 +7,7 @@ My college has serveral routers that I can't approach. <br>
 
 So, I use "ipconfig /all", "tracert", and "arp -a" in CMD. <br>
 I think my college IP probably looks like that. <br>
+<br>
 ![ip](https://user-images.githubusercontent.com/32934089/132148348-8b303369-3027-42a9-8419-e596208f16fb.PNG) 
 <br>
 
