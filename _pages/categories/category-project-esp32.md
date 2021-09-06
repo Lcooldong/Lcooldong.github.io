@@ -1,7 +1,7 @@
 ---
 title: "ESP32"
 layout: archive
-permalink: categories/project/esp32
+permalink: categories/esp32
 author_profile: true
 sidebar_main: true
 ---
