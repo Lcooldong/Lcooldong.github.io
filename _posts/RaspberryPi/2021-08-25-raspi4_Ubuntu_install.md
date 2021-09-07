@@ -34,9 +34,14 @@ When SD card has burned, <br>
 3. Open file name "network-config" with notepad++ or any editor, and write your wifi config. <br>
 <br>
 NOTEPAD : <https://notepad-plus-plus.org/downloads/> <br>
+<br>
+![wifiset](https://user-images.githubusercontent.com/32934089/132329846-e6e347bc-4b36-4e26-acef-f0d212ca8cee.JPG) <br>
+
+
 
 4. Open file name "user-data", add 2 sentence. <br>
-
+<br>
+![2sen](https://user-images.githubusercontent.com/32934089/132329735-7c50363e-90b3-45fe-9cec-dd2e1c6884e8.JPG) <br>
 
 5. Insert SD card, turn on your Raspi4, and wait about 2 minutes. <br>
 
