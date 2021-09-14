@@ -40,6 +40,13 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
+                    {% if category[0] == "ESP8266" %}
+                        <li><a href="/categories/esp8266" class="">ESP8266 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
                     {% if category[0] == "Arduino" %}
                         <li><a href="/categories/arduino" class="">Arduino ({{category[1].size}})</a></li>
                     {% endif %}
