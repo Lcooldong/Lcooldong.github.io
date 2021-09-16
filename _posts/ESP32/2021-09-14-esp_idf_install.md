@@ -15,7 +15,7 @@ So, I'm going to practice about ESP32 with some tutorial. <br>
 
 
 ## Getting started
-[Docs of espressif](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/windows-setup.html)
+[Programming Guide of ESP](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/windows-setup.html)
 <br>
 
 ## Popular Two Methods 
