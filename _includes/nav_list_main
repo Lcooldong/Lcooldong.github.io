@@ -54,8 +54,8 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "RaspberryPi" %}
-                        <li><a href="/categories/raspi" class="">RaspberryPi ({{category[1].size}})</a></li>
+                    {% if category[0] == "Raspberry_Pi" %}
+                        <li><a href="/categories/raspi" class="">Raspberry_Pi ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
