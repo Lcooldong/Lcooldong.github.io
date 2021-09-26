@@ -2,6 +2,9 @@
 layout: single
 title: Raspberry Pi4 Static WiFi IP
 
+categories : [Raspberry_Pi]
+tags : [Raspberry_Pi, WiFi]
+
 toc: true
 toc_sticky: true
 
