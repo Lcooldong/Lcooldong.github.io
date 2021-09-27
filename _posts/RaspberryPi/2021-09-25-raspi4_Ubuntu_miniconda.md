@@ -28,10 +28,14 @@ cat /etc/os-release
 {% endhighlight %}
 
 
+## download miniconda
+
 [Miniconda Mirror site]<https://repo.anaconda.com/miniconda/> <br>
 {% highlight html %}
 wget http://repo.continuum.io/miniconda/Miniconda3-latest-Linux-aarch64.sh
 {% endhighlight %}
+
+## when lock error occur
 
 change localhost -> "your hostname"
 {% highlight html %}
@@ -39,6 +43,8 @@ sudo cat /etc/hostname
 sudo cat /etc/hosts
 sudo nano /etc/hosts
 {% endhighlight %}
+
+## install miniconda
 
 {% highlight html %}
 sudo md5sum Miniconda3-latest-Linux-aarch64.sh
@@ -48,10 +54,11 @@ sudo md5sum Miniconda3-latest-Linux-aarch64.sh
 sudo /bin/bash Miniconda3-latest-Linux-aarch64.sh
 {% endhighlight %}
 
+## miniconda file path
 
-### paht -> /home/ubuntu/miniconda3 (ubuntu is username)
+**path -> /home/ubuntu/miniconda3 (ubuntu is username)**
 <br>
-And, everythis is "yes".
+And, everything is "yes".
 
 {% highlight html %}
 sudo nano /home/ubuntu/.bashrc
@@ -61,10 +68,10 @@ sudo nano /home/ubuntu/.bashrc
 
 Go to buttom and find or add miniconda PATH.
 {% highlight html %}
-export PATH="home/ubuntu/miniconda3/bin:$PATH"
+export PATH="/home/ubuntu/miniconda3/bin:$PATH"
 {% endhighlight %}
 
-#### Apply change
+## Apply change
 {% highlight html %}
 source ~/.bashrc
 {% endhighlight %}
