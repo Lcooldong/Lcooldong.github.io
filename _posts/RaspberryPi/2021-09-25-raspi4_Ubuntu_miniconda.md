@@ -9,7 +9,7 @@ toc: true
 toc_sticky: true
 
 date: 2021-09-25
-last_modified_at: 2021-09-25
+last_modified_at: 2021-09-27
 ---
 
 Raspi4 version : 20.04.3 LTS focal fossa Ubuntu Server
