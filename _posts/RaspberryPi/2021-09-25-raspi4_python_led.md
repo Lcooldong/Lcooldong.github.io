@@ -26,7 +26,7 @@ sudo apt-get install gcc g++
 
 {% endhighlight %}
 
-## Connect github for development
+## Connect github first time 
 {% highlight html %}
 git init
 {% endhighlight %}
@@ -44,10 +44,15 @@ git commit -m "first commit"
 git branch -M main
 {% endhighlight %}
 {% highlight html %}
-git remote add origin http://github.com/[your github repogitory]
+git remote add origin https://github.com/[your github repogitory]
 {% endhighlight %}
 {% highlight html %}
 git push -u origin main
+{% endhighlight %}
+
+## Clone github
+{% highlight html %}
+git clone https://github.com/[your github repogitory]
 {% endhighlight %}
 
 
