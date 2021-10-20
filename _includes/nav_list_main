@@ -21,6 +21,14 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Angel_Scanner" %}
+                        <li><a href="/categories/angel_scanner" class="">Angel_Scanner ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+
         <span class="nav__sub-title">Board</span>    
             <ul>
             <!--Cpp 카테고리 글들을 모아둔 페이지인 /categories/cpp 주소의 글로 링크 연결-->
@@ -59,6 +67,15 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+        <span class="nav__sub-title">ROS</span>    
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "ROS" %}
+                        <li><a href="/categories/ros" class="">ROS ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+
         <span class="nav__sub-title">C/C++</span>
             <ul>
                 {% for category in site.categories %}
@@ -74,11 +91,43 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+
+        <span class="nav__sub-title">Python</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Python" %}
+                        <li><a href="/categories/python" class="">Python ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "OpenCV" %}
+                        <li><a href="/categories/opencv" class="">OpenCV ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        <span class="nav__sub-title">DailyStudy</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "DailyStudy" %}
+                        <li><a href="/categories/DailyStudy" class="">매일공부 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+
         <span class="nav__sub-title">etc</span>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "3d_modeling" %}
                         <li><a href="/categories/3d_modeling" class="">3d modeling(with C++) ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "VS_Code" %}
+                        <li><a href="/categories/vsc" class="">VS_Code(with C++) ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -95,7 +144,14 @@
                         <li><a href="/categories/item" class="">item ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
-            </ul>            
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "PC" %}
+                        <li><a href="/categories/pc" class="">PC ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>              
       </li>
       <li>
         <br>
