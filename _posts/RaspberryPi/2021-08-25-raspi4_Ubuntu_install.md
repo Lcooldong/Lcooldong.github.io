@@ -5,6 +5,9 @@ title: Raspberry Pi4 Ubuntu Server install.
 toc: true
 toc_sticky: true
 
+categories : [Raspberry_Pi]
+tags : [Raspberry_Pi]
+
 date: 2021-08-25
 last_modified_at: 2021-09-07
 ---
