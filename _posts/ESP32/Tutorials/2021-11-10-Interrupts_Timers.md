@@ -71,12 +71,11 @@ entry 0x400805f0
 [HINT_for_my_Solution](https://forum.arduino.cc/t/esp32-guru-meditation-error-core-1-paniced-coprocessor-exception/596231)
 
 I think many signals make error.  
-So, I use add only
+So, I use add only 
 {% highlight html %}
 delay(10)
 {% endhighlight %}
-<br>
-to stop interrupt.
+to stop interrupt. (in void loop())
 <br>
 
 
