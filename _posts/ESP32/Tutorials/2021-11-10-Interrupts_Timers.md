@@ -73,7 +73,7 @@ entry 0x400805f0
 I think many signals make error.  
 So, I use add only 
 {% highlight html %}
-delay(10)
+delay(1)
 {% endhighlight %}
 to stop interrupt. (in void loop())
 <br>
