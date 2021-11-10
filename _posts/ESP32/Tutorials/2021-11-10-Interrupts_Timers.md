@@ -68,6 +68,17 @@ load:0x40080400,len:3604
 entry 0x400805f0
 {% endhighlight %}
 
+[HINT_for_my_Solution](https://forum.arduino.cc/t/esp32-guru-meditation-error-core-1-paniced-coprocessor-exception/596231)
+
+I think many signals make error.  
+So, I use add only
+{% highlight html %}
+delay(10)
+{% endhighlight %}
+<br>
+to stop interrupt.
+<br>
+
 
 ## Timer
 {% highlight html %}
