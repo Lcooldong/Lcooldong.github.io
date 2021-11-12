@@ -8,8 +8,8 @@ tags : [tutorials, interrupt]
 toc: true
 toc_sticky: true
 
-date: 2021-10-19
-last_modified_at: 2021-10-19
+date: 2021-11-10
+last_modified_at: 2021-11-10
 ---
 
 # ESP32 Interrupt and Timer
