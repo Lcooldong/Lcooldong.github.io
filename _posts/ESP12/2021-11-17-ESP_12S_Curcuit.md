@@ -12,7 +12,7 @@ date: 2021-11-17
 last_modified_at: 2021-11-17
 ---
 
-# ESP12S Upload Curcuit
+# ESP12S Curcuit
 <br>
 
 [Youtube_All_Method](https://www.youtube.com/watch?v=_iX67plFeLs)
