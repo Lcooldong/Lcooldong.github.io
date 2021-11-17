@@ -19,13 +19,11 @@ last_modified_at: 2021-11-17
 <br>
 
 ## Manual 
-<br>
 
 ![manual_curcuit](https://user-images.githubusercontent.com/32934089/142144773-0ebf25de-e509-4044-8f2c-4a34c4fa6ead.png)
 <br>
 
 ## Auto
-<br>
 
 ![auto_curcuit](https://user-images.githubusercontent.com/32934089/142148195-62ca8880-165e-4a37-bf84-a5d9624c2a56.png)
 <br>
