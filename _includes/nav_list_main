@@ -41,6 +41,13 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
+                    {% if category[0] == "ESP12" %}
+                        <li><a href="/categories/esp12" class="">ESP12 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
                     {% if category[0] == "ESP32" %}
                         <li><a href="/categories/esp32" class="">ESP32 ({{category[1].size}})</a></li>
                     {% endif %}
