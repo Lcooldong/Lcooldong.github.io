@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 3. ESP32 Deep Sleep
+title: 3.1 ESP32 Deep Sleep
 
 categories : [ESP32]
 tags : [tutorials, Deep Sleep]

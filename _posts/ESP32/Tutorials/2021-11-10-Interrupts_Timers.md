@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 2. ESP32 Interrupt and Timer
+title: 2.1 ESP32 Interrupt and Timer
 
 categories : [ESP32]
 tags : [tutorials, interrupt]
