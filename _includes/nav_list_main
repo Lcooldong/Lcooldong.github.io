@@ -116,7 +116,7 @@
         <span class="nav__sub-title">DailyStudy</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "매일공부" %}
+                    {% if category[0] == "DailyStudy" %}
                         <li><a href="/categories/dailystudy" class="">DS ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
