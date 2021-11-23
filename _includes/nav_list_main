@@ -117,7 +117,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "DailyStudy" %}
-                        <li><a href="/categories/dailystudy" class="">매일공부 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/dailystudy" class="">DS ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
