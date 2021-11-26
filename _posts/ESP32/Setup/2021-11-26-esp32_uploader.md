@@ -41,3 +41,10 @@ Driver 340K
 ## Check port
 ![check](https://user-images.githubusercontent.com/32934089/143519845-550d3e0b-74b2-448a-bd72-a6480f8c4552.PNG)
 <br>
+
+
+## Fusing
+I use ESP-IDF, but any other IDE such as Arduino IDE will work well.
+
+![upload](https://user-images.githubusercontent.com/32934089/143520280-a58d1c23-cedc-46c9-ad7c-856a1a23e24e.png)
+<br>
