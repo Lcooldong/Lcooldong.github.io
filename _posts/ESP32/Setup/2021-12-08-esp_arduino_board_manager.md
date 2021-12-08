@@ -13,6 +13,10 @@ last_modified_at: 2021-12-08
 ---
 
 This is board manager .json link for Arduino IDE.
+<br>
+
+[ESP tutorials LINK](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/)
+<br>
 
 ## ESP32
 [ESP32 Github Arduino Core](https://github.com/espressif/arduino-esp32)
