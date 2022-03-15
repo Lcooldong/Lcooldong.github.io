@@ -35,3 +35,6 @@ Inter Intergrated Circuit
 마스터(master) 1개, 여러 개의 슬레이브(slave)  
 반이중(Half-Duplex) 방식 : 송신과 수신이 동시에 불가능  
 각각의 슬레이브 주소로 데이터를 전송  
+
+
+###
