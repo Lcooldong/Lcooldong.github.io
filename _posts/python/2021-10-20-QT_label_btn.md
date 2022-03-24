@@ -2,8 +2,8 @@
 layout: single
 title: Python QT label and button scope
 
-categories : [python]
-tags : [python]
+categories : [Python]
+tags : [Python]
 
 toc: true
 toc_sticky: true
